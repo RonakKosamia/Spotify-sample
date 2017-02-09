@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\spotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_f6a03b9121ad82ed1d06677e9d45340dc035b6de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\spotifyStreamer\app\build\intermediates\exploded-aar\spotify-web-api-android-0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b392b194c936c3a1c5786c1873ad931fbd53e301">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-spotify-web-api-android-0.1.0_b788ed2742cdece9040c9213cab1085196fce0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\spotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.1_04fee9064175dfb5482e4ae3d3b8e3d15b2c2356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ronak\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0_ff018564726e2c43199ce387bd5bac3fd3d9da9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\spotifyWithSlikdeals\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="F:\spotifyWithSlikdeals\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_6640a173a302ac4a291c23da52dee6d207c96f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ronak\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_b82eadb43c6c1f9db58919ab2915c41ec7a5e7cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\spotifyWithSlikdeals\app\build\intermediates\exploded-aar\spotify-web-api-android-0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b392b194c936c3a1c5786c1873ad931fbd53e301">
+        <dex dex="F:\spotifyWithSlikdeals\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-spotify-web-api-android-0.1.0_fbaeb4e989a38bb14b17cb8cdf537930fbc57b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ronak\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\gson-2.3.1_9ee3c16faedfb41ed9e12c38499708ccd18f74fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\spotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.1.1_e8e4f323a3fb8e1bd3a4d595b9f4cd0811a800bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\spotifyWithSlikdeals\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="F:\spotifyWithSlikdeals\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.1.1_a18227b07823d527c3653895264d224c7d96f6df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\spotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_a982fd238a16351f93561c2823352af3001536d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ronak\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\okio-1.2.0_55e1569f280850be67413d523b792ab2f0736968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ronak\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1_223f7dea13417e856e6b944e119cc11ecc873b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\spotifyWithSlikdeals\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="F:\spotifyWithSlikdeals\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_2e601648503808b3bb633fa9ff7c7786c2100fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ronak\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\spotifyStreamer\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_e1d813ec5d3aef50e3db6c434fdd1da660f999de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\spotifyWithSlikdeals\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="F:\spotifyWithSlikdeals\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.1.1_0a735d7e2c75f11e8a049ef535259eb9e487d6e8.jar" />
+    </item>
+
+</items>
